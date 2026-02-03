@@ -1,7 +1,7 @@
-// Exports the "importcss" plugin for usage with module loaders
+// Exports the "wordcount" plugin for usage with module loaders
 // Usage:
 //   CommonJS:
-//     require('tinymce/plugins/importcss')
+//     require('tinymce/plugins/wordcount')
 //   ES2015:
-//     import 'tinymce/plugins/importcss'
+//     import 'tinymce/plugins/wordcount'
 require('./plugin.js');
